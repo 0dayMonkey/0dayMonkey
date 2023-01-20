@@ -1,4 +1,4 @@
-<h1 align="center"><h>Hi , it's Monkey !  <img src="https://user-images.githubusercontent.com/95378035/213541538-bc35d2e5-61e6-43e6-bb46-cb9ffa17dc5e.gif" width="100"></h></h1>
+<h1 align="center"><h>Hi , it's Monkey !  <img src="https://user-images.githubusercontent.com/95378035/213541538-bc35d2e5-61e6-43e6-bb46-cb9ffa17dc5e.gif" width="50"></h></h1>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/95378035/213531213-03545f90-7a93-4de9-9311-8e5f296ec5f2.gif">
 </p>

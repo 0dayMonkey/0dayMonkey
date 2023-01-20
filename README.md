@@ -11,9 +11,9 @@
 
 <h3><center>On <a href="github.com/0dayMonkey">my profile</a> you will find most of the codes that I write and that I improve over time: this is not a place where you should look for what could help you, this profile is mainly for me display banalities and training and experience codes.</center></h3>
 
-- If you find something that helps you then that's a big pleasure!
+- If you find something that helps you then that's a big pleasure !
 
-<h4>Note : /!\ I didn't keep github up to date: I imported files that I had already written before, I tried to separate the old codes from the new ones!: </h4>
+<h4><img src='https://user-images.githubusercontent.com/95378035/213691496-75edae3c-7a18-4113-829b-9a6809fc16e8.png' style="width:20px"></img> Note : I didn't keep github up to date: I imported files that I had already written before, I tried to separate the old codes from the new ones!: </h4>
 
 
 

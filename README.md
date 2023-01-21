@@ -11,10 +11,10 @@
 
 <h3><center>On <a href="github.com/0dayMonkey">my profile</a> you will find most of the codes that I write and that I improve over time: this is not a place where you should look for what could help you, this profile is mainly for me display banalities and training and experience codes.</center></h3>
 
-<p align="center" style="text-align: center;"> If you find something that helps you then that's a big pleasure <img src='https://user-images.githubusercontent.com/95378035/213693243-fce11f69-ece5-413e-ab44-99db7ec1d0b4.png' style="width:20px"></img> ! </p>
+<p align="center" style="text-align: center;"> If you find something that helps you then that's a big pleasure <img src='https://user-images.githubusercontent.com/95378035/213693243-fce11f69-ece5-413e-ab44-99db7ec1d0b4.png' width="20px"></img> ! </p>
 
 
-<h4><img src='https://user-images.githubusercontent.com/95378035/213691496-75edae3c-7a18-4113-829b-9a6809fc16e8.png' style="width:20px"></img> Note : I didn't keep github up to date: I imported files that I had already written before, I will try to separate the old codes from the new ones ! </h4>
+<h4><img src='https://user-images.githubusercontent.com/95378035/213691496-75edae3c-7a18-4113-829b-9a6809fc16e8.png' width="20"></img> Note : I didn't keep github up to date: I imported files that I had already written before, I will try to separate the old codes from the new ones ! </h4>
 
 
 

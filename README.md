@@ -18,8 +18,4 @@
 
 
 
-<img
-  src="https://github.com/0dayMonkey/0dayMonkey/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/>
 
